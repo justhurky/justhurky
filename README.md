@@ -1,26 +1,36 @@
 # Hi, I'm Daniel Loki
 
-Computer Science Engineering student focused mainly on C/C++ development, with an interest in backend systems, REST APIs, software licensing workflows, and infrastructure-oriented tooling.
+I'm a Computer Science Engineering student at Széchenyi István University. I'm interested in C and C++ development, especially because I started learning these languages at university and I want to build a stronger technical foundation with them.
 
-I build small, practical projects that are easy to understand and explain. My current focus is writing clean validation logic, CLI tools, simple workflow simulations, and backend prototypes that connect to real software engineering topics.
+Besides C/C++, I also have experience with backend development in ASP.NET and C#. I built the backend part of my professional exam project using ASP.NET C#, which gave me practical experience with backend structure, API logic and application development.
+
+On the frontend side, I have worked with React and I also have some experience with Angular. I also use Python for smaller scripts, automation and practical problem-solving tasks.
+
+I like building small, understandable projects where I can practice clean logic, validation, CLI tools, backend APIs and simple software workflows.
 
 ## What I Focus On
 
 - C and C++ fundamentals
+- Backend development with ASP.NET and C#
+- REST API basics
 - CLI tools and input validation
-- Licensing workflow simulations
-- REST API design basics
-- Backend and infrastructure-oriented development
-- Security and reliability basics
-- Learning-oriented, readable code
+- React and Angular frontend basics
+- Python scripting
+- Simple software workflow simulations
+- Clean and readable code
+- Practical learning through small projects
 
 ## Why These Projects
 
-The projects below are designed around one clear theme: software licensing and validation workflows. They show the same idea from multiple angles:
+The projects below are small, focused examples of the technologies and topics I am currently learning or practicing.
+
+Some of them are built around software license validation and activation workflows, because this is a practical topic where C, C++, backend APIs and validation logic can connect well.
+
+They show different sides of my current skill set:
 
 - A C++ workflow simulation
 - A small C validation tool
-- A complementary ASP.NET Core API prototype
+- An ASP.NET Core backend API prototype
 - A NativeAOT CLI experiment
 - A lightweight API gateway concept
 
@@ -28,16 +38,18 @@ The projects below are designed around one clear theme: software licensing and v
 
 - C
 - C++
-- C# / .NET basics
-- ASP.NET Core basics
+- C# / .NET
+- ASP.NET Core
 - REST APIs
 - Postman
+- React
+- Angular basics
+- Python scripting
 - NativeAOT basics
 - Git / GitHub
 - CLI tooling
 - Basic software architecture
 - Validation logic
-- Licensing workflows
 
 ## Featured Projects
 
@@ -60,4 +72,4 @@ Lightweight API gateway concept with request validation and API key checks.
 
 - GitHub: [@justhurky](https://github.com/justhurky)
 - Email: lokid700@gmail.com
-- Location: Gyor, Hungary
+- Location: Keszthely, Gyor, Hungary
