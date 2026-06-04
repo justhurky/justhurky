@@ -1,35 +1,60 @@
-# Hi, I'm Daniel
+# Hi, I'm Daniel Loki
 
-Computer Science Engineering student at Szechenyi Istvan University, focused on backend development, REST APIs, infrastructure tooling, and practical software engineering.
+Computer Science Engineering student focused mainly on C/C++ development, with an interest in backend systems, REST APIs, software licensing workflows, and infrastructure-oriented tooling.
 
-I like building small, clear projects that show how backend systems work: request validation, API design, simple security flows, deployment-friendly tools, and maintainable C#/.NET code.
+I build small, practical projects that are easy to understand and explain. My current focus is writing clean validation logic, CLI tools, simple workflow simulations, and backend prototypes that connect to real software engineering topics.
 
-## Focus Areas
+## What I Focus On
 
-- Backend development with C# and .NET
-- REST API design and implementation
-- NativeAOT experiments and small CLI tools
-- Infrastructure-oriented developer tooling
-- Reliable and understandable software design
-- API testing with Postman
+- C and C++ fundamentals
+- CLI tools and input validation
+- Licensing workflow simulations
+- REST API design basics
+- Backend and infrastructure-oriented development
+- Security and reliability basics
+- Learning-oriented, readable code
+
+## Why These Projects
+
+The projects below are designed around one clear theme: software licensing and validation workflows. They show the same idea from multiple angles:
+
+- A C++ workflow simulation
+- A small C validation tool
+- A complementary ASP.NET Core API prototype
+- A NativeAOT CLI experiment
+- A lightweight API gateway concept
 
 ## Tech Stack
 
-- **Languages:** C#, C, C++
-- **Backend:** ASP.NET Core, REST APIs
-- **Tooling:** .NET CLI, Postman, Git, GitHub
-- **Topics:** NativeAOT, request validation, licensing workflows, API gateway concepts
+- C
+- C++
+- C# / .NET basics
+- ASP.NET Core basics
+- REST APIs
+- Postman
+- NativeAOT basics
+- Git / GitHub
+- CLI tooling
+- Basic software architecture
+- Validation logic
+- Licensing workflows
 
 ## Featured Projects
 
+### C++ License Client
+C++ CLI prototype for simulating software license activation and validation workflows.
+
+### License Key Validator C
+C command-line tool for validating software license key formats.
+
 ### LicenseHub API
-ASP.NET Core REST API prototype for software license management and activation workflows.
+ASP.NET Core REST API prototype for software license management workflows.
 
 ### NativeAOT Playground
-.NET NativeAOT experiment for a small deployment-friendly command-line tool.
+.NET NativeAOT experiment for small deployment-friendly CLI tools.
 
 ### GatewayShield API
-Lightweight API gateway concept with request validation and security-focused backend design.
+Lightweight API gateway concept with request validation and API key checks.
 
 ## Contact
 
