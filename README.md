@@ -41,19 +41,19 @@ The projects below are designed around one clear theme: software licensing and v
 
 ## Featured Projects
 
-### C++ License Client
+### [C++ License Client](https://github.com/justhurky/cpp-license-client)
 C++ CLI prototype for simulating software license activation and validation workflows.
 
-### License Key Validator C
+### [License Key Validator C](https://github.com/justhurky/license-key-validator-c)
 C command-line tool for validating software license key formats.
 
-### LicenseHub API
+### [LicenseHub API](https://github.com/justhurky/licensehub-api)
 ASP.NET Core REST API prototype for software license management workflows.
 
-### NativeAOT Playground
+### [NativeAOT Playground](https://github.com/justhurky/nativeaot-playground)
 .NET NativeAOT experiment for small deployment-friendly CLI tools.
 
-### GatewayShield API
+### [GatewayShield API](https://github.com/justhurky/gatewayshield-api)
 Lightweight API gateway concept with request validation and API key checks.
 
 ## Contact
@@ -61,4 +61,3 @@ Lightweight API gateway concept with request validation and API key checks.
 - GitHub: [@justhurky](https://github.com/justhurky)
 - Email: lokid700@gmail.com
 - Location: Gyor, Hungary
-
