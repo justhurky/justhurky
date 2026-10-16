@@ -40,6 +40,14 @@ ingestion with replay protection, Ed25519-signed telecommanding, and a hash-chai
 can be verified after the fact. Built as a safety-critical exercise, with 221 tests and CodeQL
 analysis in CI.
 
+**[qa-portfolio](https://github.com/justhurky/qa-portfolio)** · JUnit 5, REST Assured, Playwright,
+pytest, k6
+A worked example of software testing rather than a pile of assertions: 40 numbered requirements, test
+cases derived from them with boundary value analysis, a decision table and state transition coverage,
+then 148 automated tests across API, contract, end to end and performance layers. Three defects were
+found, reproduced and written up; the tests that expose them are tagged so the build gate stays
+honest instead of green by deletion.
+
 **[aorta_student](https://github.com/justhurky/aorta_student)** · Python, YOLOv8, DICOM
 Computer vision pipeline that reads raw DICOM medical imaging files, detects measurement endpoints
 with a custom-trained model, converts the result into real-world distances and generates PDF
