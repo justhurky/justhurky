@@ -1,75 +1,71 @@
 # Hi, I'm Daniel Loki
 
-I'm a Computer Science Engineering student at Széchenyi István University. I'm interested in C and C++ development, especially because I started learning these languages at university and I want to build a stronger technical foundation with them.
+I'm a Computer Science Engineering (BSc) student at Széchenyi István University, and before that I
+spent five years in a software developer and tester programme. That order matters to me: I learned
+to test software before I learned to build larger systems, so I tend to think about how something
+can fail and how it can be verified, not only about whether it runs.
 
-Besides C/C++, I also have experience with backend development in ASP.NET and C#. I built the backend part of my professional exam project using ASP.NET C#, which gave me practical experience with backend structure, API logic and application development.
+Most of my work is **backend development**. I build REST APIs with C# and ASP.NET Core, and with
+Java and Spring Boot, on top of relational databases, in containerised environments with CI
+pipelines around them. I also work with React and TypeScript on the frontend, and I use Python for
+automation, scripting and machine learning experiments.
 
-On the frontend side, I have worked with React and I also have some experience with Angular. I also use Python for smaller scripts, automation and practical problem-solving tasks.
+I like projects that are small enough to understand completely, but real enough to have constraints:
+validation that actually rejects bad input, tests that actually catch regressions, and code that the
+next person can read.
 
-I like building small, understandable projects where I can practice clean logic, validation, CLI tools, backend APIs and simple software workflows.
+Currently looking for a one-year internship in backend development or testing.
 
-## What I Focus On
+## What I work with
 
-- C and C++ fundamentals
-- Backend development with ASP.NET and C#
-- REST API basics
-- CLI tools and input validation
-- React and Angular frontend basics
-- Python scripting
-- Simple software workflow simulations
-- Clean and readable code
-- Practical learning through small projects
+**Languages** C#, Java, Python, TypeScript, JavaScript, SQL, C, C++, Rust
 
-## Why These Projects
+**Backend** ASP.NET Core, REST APIs, Entity Framework, Spring Boot, Spring Security, Spring Data JPA
 
-The projects below are small, focused examples of the technologies and topics I am currently learning or practicing.
+**Frontend** React, TypeScript, Angular basics
 
-Some of them are built around software license validation and activation workflows, because this is a practical topic where C, C++, backend APIs and validation logic can connect well.
+**Data** PostgreSQL, Microsoft SQL Server, Flyway and EF migrations
 
-They show different sides of my current skill set:
+**Testing** unit testing (xUnit, NUnit, MSTest, JUnit 5), integration testing, Testcontainers, test
+case design, regression testing, issue tracking
 
-- A C++ workflow simulation
-- A small C validation tool
-- An ASP.NET Core backend API prototype
-- A NativeAOT CLI experiment
-- A lightweight API gateway concept
+**Tooling** Docker, GitHub Actions, CI/CD, Git, Linux CLI, Postman
 
-## Tech Stack
+## Featured projects
 
-- C
-- C++
-- C# / .NET
-- ASP.NET Core
-- REST APIs
-- Postman
-- React
-- Angular basics
-- Python scripting
-- NativeAOT basics
-- Git / GitHub
-- CLI tooling
-- Basic software architecture
-- Validation logic
+**[satellite-ground-segment](https://github.com/justhurky/satellite-ground-segment)** · Java 21,
+Spring Boot 3.5, PostgreSQL
+Backend service for the ground segment of a satellite mission: authenticated CCSDS telemetry
+ingestion with replay protection, Ed25519-signed telecommanding, and a hash-chained audit trail that
+can be verified after the fact. Built as a safety-critical exercise, with 221 tests and CodeQL
+analysis in CI.
 
-## Featured Projects
+**[aorta_student](https://github.com/justhurky/aorta_student)** · Python, YOLOv8, DICOM
+Computer vision pipeline that reads raw DICOM medical imaging files, detects measurement endpoints
+with a custom-trained model, converts the result into real-world distances and generates PDF
+reports.
 
-### [C++ License Client](https://github.com/justhurky/cpp-license-client)
-C++ CLI prototype for simulating software license activation and validation workflows.
+**[ai-forge](https://github.com/justhurky/ai-forge)** · Python, Rust, Ollama
+Local multi-agent development assistant. The workspace scanner is written in Rust behind a Python
+binding, and every automated change goes through a read-only diff review layer so nothing is
+modified without a human looking at it.
 
-### [License Key Validator C](https://github.com/justhurky/license-key-validator-c)
-C command-line tool for validating software license key formats.
+**[LoKeD-demo](https://github.com/justhurky/LoKeD-demo)** · Python
+Document-grounded administrative assistant running fully locally: it indexes documents, answers from
+them, and extracts tasks and decisions from meeting notes. Published as a cleaned demo, without any
+real data.
 
-### [LicenseHub API](https://github.com/justhurky/licensehub-api)
-ASP.NET Core REST API prototype for software license management workflows.
+Some of my coursework and client projects are in private repositories, including an ASP.NET Core and
+React event application that served around 60 concurrent users, and a car service management
+backend. Happy to walk through either of them.
 
-### [NativeAOT Playground](https://github.com/justhurky/nativeaot-playground)
-.NET NativeAOT experiment for small deployment-friendly CLI tools.
+## What I'm learning now
 
-### [GatewayShield API](https://github.com/justhurky/gatewayshield-api)
-Lightweight API gateway concept with request validation and API key checks.
+Going deeper into the Spring ecosystem, applied cryptography in backend systems, and the kind of
+testing that gives real confidence rather than coverage numbers.
 
 ## Contact
 
 - GitHub: [@justhurky](https://github.com/justhurky)
-- Email: lokid700@gmail.com
-- Location: Keszthely, Gyor, Hungary
+- Email: [lokid700@gmail.com](mailto:lokid700@gmail.com)
+- Location: Győr, Hungary
