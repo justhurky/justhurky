@@ -59,10 +59,6 @@ Some of my coursework and client projects are in private repositories, including
 React event application that served around 60 concurrent users, and a car service management
 backend. Happy to walk through either of them.
 
-## What I'm learning now
-
-Going deeper into the Spring ecosystem, applied cryptography in backend systems, and the kind of
-testing that gives real confidence rather than coverage numbers.
 
 ## Contact
 
