@@ -5,10 +5,11 @@ spent five years in a software developer and tester programme. That order matter
 to test software before I learned to build larger systems, so I tend to think about how something
 can fail and how it can be verified, not only about whether it runs.
 
-Most of my work is **backend development**. I build REST APIs with C# and ASP.NET Core, and with
-Java and Spring Boot, on top of relational databases, in containerised environments with CI
-pipelines around them. I also work with React and TypeScript on the frontend, and I use Python for
-automation, scripting and machine learning experiments.
+Most of my work is **backend development**. I build REST APIs with C# and ASP.NET Core on top of
+relational databases, in containerised environments with CI pipelines around them. I also work with
+React and TypeScript on the frontend, and I use Python for automation, scripting and machine
+learning experiments. I am currently learning Java and Spring Boot, which map closely onto what I
+already do in ASP.NET Core.
 
 I like projects that are small enough to understand completely, but real enough to have constraints:
 validation that actually rejects bad input, tests that actually catch regressions, and code that the
@@ -18,27 +19,20 @@ Currently looking for a one-year internship in backend development or testing.
 
 ## What I work with
 
-**Languages** C#, Java, Python, TypeScript, JavaScript, SQL, C, C++, Rust
+**Languages** C#, Python, TypeScript, JavaScript, SQL, C, C++, Rust
 
-**Backend** ASP.NET Core, REST APIs, Entity Framework, Spring Boot, Spring Security, Spring Data JPA
+**Backend** ASP.NET Core, REST APIs, Entity Framework
 
 **Frontend** React, TypeScript, Angular basics
 
-**Data** PostgreSQL, Microsoft SQL Server, Flyway and EF migrations
+**Data** PostgreSQL, Microsoft SQL Server, EF migrations
 
-**Testing** unit testing (xUnit, NUnit, MSTest, JUnit 5), integration testing, Selenium WebDriver,
-Testcontainers, test case design, manual and exploratory testing, regression testing, issue tracking
+**Testing** unit testing (xUnit, NUnit, MSTest), integration testing, Selenium WebDriver, test
+case design, manual and exploratory testing, regression testing, issue tracking
 
 **Tooling** Docker, GitHub Actions, CI/CD, Git, Linux CLI, Postman
 
 ## Featured projects
-
-**[satellite-ground-segment](https://github.com/justhurky/satellite-ground-segment)** · Java 21,
-Spring Boot 3.5, PostgreSQL
-Backend service for the ground segment of a satellite mission: authenticated CCSDS telemetry
-ingestion with replay protection, Ed25519-signed telecommanding, and a hash-chained audit trail that
-can be verified after the fact. Built as a safety-critical exercise, with 221 tests and CodeQL
-analysis in CI.
 
 **[qa-portfolio](https://github.com/justhurky/qa-portfolio)** · xUnit, NUnit, Selenium WebDriver,
 manual and exploratory testing, k6
